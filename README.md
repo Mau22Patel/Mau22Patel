@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mau22Patel
+- 👋 Hi, I’m @MauPatel
 - 👀 I’m interested in networking and learning from more experienced experts in the tech world. 
 - 🌱 I’m currently learning JavaScript and Kotlin as I want to develop my app development skills. 
-- 💞️ I’m looking to collaborate on projects and finding solutions to sticky problems.  
+- 💞️ I’m looking to collaborate on projects and find solutions to sticky problems.  
 - 📫 How to reach me maulik.patel0588@gmail.com 
 
 <!---
