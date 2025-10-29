@@ -1,7 +1,7 @@
 👋 Hi, I'm Mau Patel
 
 I’m a Software Engineer with a background in IT (MSc + Diploma) and 7+ years of teaching and leadership experience.  
-Currently focused on mobile and web application development** using Java, Python, Swift, and JavaScript.  
+Currently focused on mobile and web application development using Java, Python, Swift, and JavaScript.  
 I enjoy building user-focused applications and continuously learning new technologies.  
 
 
